@@ -1,0 +1,65 @@
+{
+  "achievements": [
+    {
+      "identifier": "FIRST_SPARK",
+      "display_name": "First Spark",
+      "description": "Complete your first paid building.",
+      "stat_requirement": null
+    },
+    {
+      "identifier": "SOMETHING_FOR_EVERYONE",
+      "display_name": "Something for Everyone",
+      "description": "Own buildings covering all five visitor needs at once.",
+      "stat_requirement": null
+    },
+    {
+      "identifier": "ALL_THE_FUN",
+      "display_name": "All the Fun",
+      "description": "Own a Carousel, a Merry-go-round and a Ferris wheel at once.",
+      "stat_requirement": null
+    },
+    {
+      "identifier": "ANIMAL_MAGIC",
+      "display_name": "Animal Magic",
+      "description": "Boost a Meadow or Pond with a nearby Sign.",
+      "stat_requirement": null
+    },
+    {
+      "identifier": "RAINBOW_RESCUE",
+      "display_name": "Rainbow Rescue",
+      "description": "Repair a building that is out of service.",
+      "stat_requirement": null
+    },
+    {
+      "identifier": "HAPPY_CROWD",
+      "display_name": "Happy Crowd",
+      "description": "Finish a day with at least 10 delighted departing visitors.",
+      "stat_requirement": null
+    },
+    {
+      "identifier": "FULL_HOUSE",
+      "display_name": "Full House",
+      "description": "Finish a day that welcomed at least 20 visitors.",
+      "stat_requirement": null
+    },
+    {
+      "identifier": "SMOOTH_OPERATOR",
+      "display_name": "Smooth Operator",
+      "description": "Finish a day with at least 15 visitors, no angry departures and no visitor encountering an out-of-service building.",
+      "stat_requirement": null
+    },
+    {
+      "identifier": "RAINBOW_MASTER",
+      "display_name": "Rainbow Master",
+      "description": "Reach six reputation rainbow bands.",
+      "stat_requirement": null
+    },
+    {
+      "identifier": "THE_GRAND_PARADE",
+      "display_name": "The Grand Parade",
+      "description": "Complete all thirteen days of your park's season.",
+      "stat_requirement": null
+    }
+  ],
+  "stats": []
+}

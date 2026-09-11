@@ -1,0 +1,15 @@
+{
+  "name": "unicorn-tycoon",
+  "version": "1.0.0",
+  "description": "js13kGames 2026 entry - Unicorns and Rainbows",
+  "private": true,
+  "scripts": {
+    "build": "./build.sh",
+    "tune": "./tune.sh",
+    "test": "node test/check.js src/index.html && node test/title.js src/index.html && node test/wavedash.js"
+  },
+  "devDependencies": {
+    "roadroller": "^2.1.0",
+    "terser": "^5.31.0"
+  }
+}
